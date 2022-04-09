@@ -1,1 +1,3 @@
-это фронт контроллер yy
+<?php
+
+require_once dirname(__DIR__) . '/config/init.php';

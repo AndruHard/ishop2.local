@@ -10,7 +10,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12d0873a-934b-4c56-aa22-af23a44173db" name="Default Changelist" comment="first" />
+    <list default="true" id="12d0873a-934b-4c56-aa22-af23a44173db" name="Default Changelist" comment="first">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649497806728</updated>
-      <workItem from="1649497808017" duration="6061000" />
+      <workItem from="1649497808017" duration="8577000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1649502095216</created>
@@ -95,10 +98,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="739" y="258" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1649500823140" />
-    <state x="794" y="439" key="NewPhpFileDialog" timestamp="1649499725833">
+    <state x="794" y="439" key="NewPhpFileDialog" timestamp="1649505876022">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="794" y="439" key="NewPhpFileDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1649499725833" />
+    <state x="794" y="439" key="NewPhpFileDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1649505876022" />
     <state x="461" y="161" key="SettingsEditor" timestamp="1649501927872">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -107,5 +110,9 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="552" y="236" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1649502140658" />
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1649506367804">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1649506367804" />
   </component>
 </project>
