@@ -46,3 +46,12 @@
 [2022-04-28 17:54:33] Текст ошибки:
         Page not found | Файл: D:\OpenServer\domains\ishop2.local\public\index.php | Строка: 9
 ==================
+[2022-05-03 14:06:50] Текст ошибки:
+        Контроллер app\controllers\MainController не найден | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 34
+==================
+[2022-05-03 14:06:51] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 37
+==================
+[2022-05-03 14:09:14] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 37
+==================
