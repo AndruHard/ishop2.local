@@ -6,6 +6,3 @@ require_once CONF . '/routes.php';
 
 new \ishop\App();
 
-//debug(\ishop\App::$app->getProperties());
-
-//debug(\ishop\Router::getRoutes());

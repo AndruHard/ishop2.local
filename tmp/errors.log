@@ -55,3 +55,21 @@
 [2022-05-03 14:09:14] Текст ошибки:
         Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 37
 ==================
+[2022-05-03 14:12:17] Текст ошибки:
+        Метод app\controllers\PageController::indexAction не найден | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 31
+==================
+[2022-05-03 14:23:12] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 37
+==================
+[2022-05-03 14:24:36] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 37
+==================
+[2022-05-03 14:25:44] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 37
+==================
+[2022-05-03 14:26:00] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 37
+==================
+[2022-05-03 14:28:32] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 37
+==================
