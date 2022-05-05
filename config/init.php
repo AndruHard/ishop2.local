@@ -24,7 +24,7 @@ define("CACHE", ROOT . '/tmp/cache');
 define("CONF", ROOT . '/config');
 
 //Шаблон сайта по умолчанию
-define("LAYOUT", 'default');
+define("LAYOUT", 'watches');
 
 $app_path = "http://{$_SERVER['HTTP_HOST']}{$_SERVER['PHP_SELF']}";
 
