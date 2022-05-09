@@ -12,6 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="12d0873a-934b-4c56-aa22-af23a44173db" name="Default Changelist" comment="first">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/MainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/MainController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Main/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Main/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +73,8 @@
       <workItem from="1651155975780" duration="4498000" />
       <workItem from="1651574135945" duration="13674000" />
       <workItem from="1651775218071" duration="2295000" />
-      <workItem from="1652026918747" duration="897000" />
+      <workItem from="1652026918747" duration="1487000" />
+      <workItem from="1652104358432" duration="2239000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1649502095216</created>
@@ -114,6 +117,14 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="845" y="379" key="#Notifications/0.0.1920.1032@0.0.1920.1032" timestamp="1651777173699" />
+    <state x="33" y="300" key="#SSH_Configurations" timestamp="1652105627225">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="33" y="300" key="#SSH_Configurations/0.0.1920.1032@0.0.1920.1032" timestamp="1652105627225" />
+    <state x="128" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1652105662263">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="128" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1652105662263" />
     <state x="808" y="302" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1651163110134">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -122,6 +133,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="739" y="258" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1649860481984" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1652104943353">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1032@0.0.1920.1032" timestamp="1652104943353" />
     <state x="546" y="225" key="NewPhpClassDialog" timestamp="1651594797763">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
