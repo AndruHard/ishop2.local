@@ -53,8 +53,8 @@
                             <h3><a href="product/<?=$hit->alias;?>"<?=$hit->title;?></a></h3>
                             <p>Explore Now</p>
                             <h4>
-                                <a class="add-to-cart-link" href="cart/add?<?=$hit->id;?>"><i></i></a>
-                                <span class=" item_price">$ <?=$hit->price;?>></span>
+                                <a class="add-to-cart-link" href="cart/add?id=<?=$hit->id;?>"><i></i></a>
+                                <span class="item_price">$ <?=$hit->price;?></span>
                                 <? if($hit->old_price):?>
                                 <small><del><?=$hit->old_price;?></del></small>
                                 <?php endif;?>
