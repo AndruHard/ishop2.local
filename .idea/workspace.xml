@@ -12,12 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="12d0873a-934b-4c56-aa22-af23a44173db" name="Default Changelist" comment="first">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/AppController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/AppController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/watches.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/watches.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/widgets/currency/Currency.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/widgets/currency/Currency.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/widgets/currency/currency_tpl/currency.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/widgets/currency/currency_tpl/currency.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Main/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Main/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/libs/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/libs/functions.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +82,7 @@
       <workItem from="1652026918747" duration="1487000" />
       <workItem from="1652104358432" duration="3095000" />
       <workItem from="1652256708504" duration="17000" />
-      <workItem from="1653208302991" duration="9382000" />
+      <workItem from="1653208302991" duration="10133000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1649502095216</created>
