@@ -325,3 +325,66 @@
 [2022-05-23 11:55:01] Текст ошибки:
         Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
 ==================
+[2022-05-29 15:26:12] Текст ошибки:
+        Class 'app\widgets\menu\App' not found | Файл: D:\OpenServer\domains\ishop2.local\app\widgets\menu\Menu.php | Строка: 44
+==================
+[2022-05-29 15:26:13] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 15:27:12] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 15:29:06] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 15:30:21] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 15:34:05] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 15:34:22] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 15:39:27] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 15:48:32] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 15:48:50] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 15:49:44] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 15:51:41] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 15:53:26] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 16:07:51] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 16:08:15] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 16:21:44] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 16:22:08] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 16:22:13] Текст ошибки:
+        Контроллер app\controllers\CategoryController не найден | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 36
+==================
+[2022-05-29 16:28:01] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 16:32:04] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
+[2022-05-29 16:34:06] Текст ошибки:
+        Страница не найдена | Файл: D:\OpenServer\domains\ishop2.local\vendor\ishop\core\Router.php | Строка: 39
+==================
